@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CanvasFramework",
+        "repositoryURL": "https://github.com/dokun1/CanvasFramework",
+        "state": {
+          "branch": null,
+          "revision": "a55ed354480d85dda3386f3dfddf131fce0d7884",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
